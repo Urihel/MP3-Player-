@@ -1,3 +1,3 @@
 # MP3-Player
 This is just a basic model of an mp3 player built on HTML5, CSS3, javaScript. It currently uses an m4a file which you can 
-transfer from phone device to computer. m4a files are all created on andriod devices which use built in voice recorder apps. after you voice is obtained and coverted to an m4a file, the way to access that with your computer and copy it to a folder to use in a file is pretty easy. Since i uses windows 10 pro i just attach my usb cable to phone and computer. On the bottom right hand side of the screen you devices will appear with its name is a dark gray box. You click on that immediately and it should open you phone with all the folders. In my case i had a folder which was called voice recorder. upon opening that folder i found my file which i copy and pasted to on my computer to a folder which i used for this project. 
+transfer from phone device to computer. 
